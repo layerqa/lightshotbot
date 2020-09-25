@@ -9,3 +9,4 @@ $ pip install -r requirements.txt
 Open config.py file and change BOT_TOKEN
 $ python main.py
 ```
+[Bot](https://t.me/lightshotrobot)
